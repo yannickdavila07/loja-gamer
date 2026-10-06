@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Clarity+City:ital,wght@0,100..900;1,100..900&display=swap');
+
 .logo:hover{
     color: #141414;
     letter-spacing: 7px;
@@ -9,4 +11,10 @@
         color: #fff;
         text-shadow: 0 0 10px #2600ff, 0 0 20px #00fff2;
     }
+}
+
+.titulo{
+    color: #ffff;
+    margin-bottom: 25px;
+    
 }
